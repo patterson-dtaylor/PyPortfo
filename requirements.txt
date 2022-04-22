@@ -27,7 +27,7 @@ pyjokes==0.6.0
 PyJWT==1.7.1
 pylint==2.4.3
 pyparsing==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2019.3
 PyYAML==5.1.2
 requests==2.22.0
